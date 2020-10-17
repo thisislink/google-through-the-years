@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+}
+
+.search-form {
+    background-color: #eeeeee;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+}
+
+#search-box {
+    width: 20vw;
+}
